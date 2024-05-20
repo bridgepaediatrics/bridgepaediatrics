@@ -6,3 +6,6 @@ Join our next event at the link below - Medical Statistics with Professor Jeremy
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDE1N2RmNjktMWUwMS00MGFiLWEyMjYtMzI4YmM5YmQ2ODY5%40thread.v2/0?context=%7b%22Tid%22%3a%2237c354b2-85b0-47f5-b222-07b48d774ee3%22%2c%22Oid%22%3a%22d683b6ea-f3a9-4817-916d-9871d81d8664%22%7d
 
+Join the conversation with us on X via the handle https://twitter.com/BridgePaedsR_yh
+
+Get in touch via e-mail with bridge.paedsresearch.yh@gmail.com
