@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bridge Paediatrics Research Network
 ---
 
