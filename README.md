@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### This is a GitHub repository that holds code for the Bridge Paediatrics Yorkshire and Humber Group
 <!--
 **bridgepaediatrics/bridgepaediatrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
