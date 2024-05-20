@@ -1,3 +1,8 @@
+---
+layout: post
+title: Bridge Paediatrics Research Network
+---
+
 Welcome to the Bridge Paediatrics Website
 
 This is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT.
@@ -11,3 +16,5 @@ Join the conversation with us on X via the handle https://twitter.com/BridgePaed
 Get in touch via e-mail with bridge.paedsresearch.yh@gmail.com
 
 ![Comet Advert](/bridgepaediatrics/docs/assets/Bridge Paeds Research.pdf)
+
+
