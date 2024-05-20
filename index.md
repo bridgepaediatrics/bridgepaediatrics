@@ -9,3 +9,5 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDE1N2RmNjktMWUwMS00MGFiL
 Join the conversation with us on X via the handle https://twitter.com/BridgePaedsR_yh
 
 Get in touch via e-mail with bridge.paedsresearch.yh@gmail.com
+
+![Comet Advert](/bridgepaediatrics/docs/assets/Bridge Paeds Research.pdf)
