@@ -1,6 +1,6 @@
 title: Bridge Paediatrics Research Group
 logo: /assets/Bridge_logo.PNG
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: This is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT.
+show_downloads: FALSE
 google_analytics:
 theme: jekyll-theme-minimal
