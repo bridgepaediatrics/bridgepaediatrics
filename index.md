@@ -4,13 +4,13 @@ title: Bridge Paediatrics Research Network
 
 Join our next event at the link below - Medical Statistics with Professor Jeremy Dawson, 13th June 2024 at 1400hrs-1500hrs:
 
-<div align="center">[tinyurl.com/959md8pr](https://tinyurl.com/959md8pr)</div>
+[tinyurl.com/959md8pr](https://tinyurl.com/959md8pr)
 
 Join the conversation with us on X via the handle:
-<div align="center">[BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)</div>
+[BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)
 
 Get in touch via e-mail with:
-<div align="center">[bridge.paedsresearch.yh@gmail.com](https://bridge.paedsresearch.yh@gmail.com)</div>
+[bridge.paedsresearch.yh@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
 
 ![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
 
