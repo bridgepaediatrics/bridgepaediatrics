@@ -12,6 +12,4 @@ https://twitter.com/BridgePaedsR_yh
 Get in touch via e-mail with:
 bridge.paedsresearch.yh@gmail.com
 
-![Comet Advert](/bridgepaediatrics/docs/assets/Bridge Paeds Research.pdf)
-
-
+![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
