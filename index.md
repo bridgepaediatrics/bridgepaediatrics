@@ -13,3 +13,5 @@ Get in touch via e-mail with:
 [bridge.paedsresearch.yh@gmail.com](bridge.paedsresearch.yh@gmail.com)
 
 ![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
+
+Watch the [RCPCH Infant, Children and Young People's Research Charter](https://www.youtube.com/watch?v=wWCHrONFfYQ)
