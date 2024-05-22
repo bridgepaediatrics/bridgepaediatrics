@@ -14,4 +14,7 @@ Get in touch via e-mail with:
 
 ![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWCHrONFfYQ?si=2z2IJg_2dNQfUKwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Or you can use a link
 Watch the [RCPCH Infant, Children and Young People's Research Charter](https://www.youtube.com/watch?v=wWCHrONFfYQ)
