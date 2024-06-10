@@ -26,7 +26,7 @@ Get in touch via e-mail with:<br />
 
 <br /> 
 
-<iframe src="https://drive.google.com/file/d/1htpg3K_-uy0FiOP7nzEYNYGcTSDqNz3h/preview" width="190" height="105" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1htpg3K_-uy0FiOP7nzEYNYGcTSDqNz3h/preview" width="300" height="200" allow="autoplay"></iframe>
 
 <!-- <iframe width="190" height="105" src="https://www.youtube.com/embed/wWCHrONFfYQ?si=2z2IJg_2dNQfUKwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
