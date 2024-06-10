@@ -34,4 +34,4 @@ Get in touch via e-mail with:<br />
 
 Or you can use a link for videos instead:<br /> 
 
-Watch the [RCPCH Infant, Children and Young People's Research Charter](https://www.youtube.com/watch?v=wWCHrONFfYQ)
+Watch the [Professor Bob Phillips, Patient and Public Involvement in Research](https://drive.google.com/file/d/1htpg3K_-uy0FiOP7nzEYNYGcTSDqNz3h/view?usp=drive_link)
